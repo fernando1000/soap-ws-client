@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+      
+    <!--
+
+Este arquivo foi gerado pela Arquitetura JavaTM para Implementação de Referência (JAXB) de Bind XML, v2.2.11 
+Consulte <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+Todas as modificações neste arquivo serão perdidas após a recompilação do esquema de origem. 
+Gerado em: 2021.08.03 às 11:55:17 AM BRT 
+
+  -->
+      
+    <bindings xmlns:tns="urn:sap-com:document:sap:soap:functions:mc-style" if-exists="true" scd="x-schema::tns">
+            
+        <schemaBindings map="false">
+                  
+            <package name="br.com.x10d.pacotegerado"/>
+                
+        </schemaBindings>
+            
+        <bindings if-exists="true" scd="tns:ZportalUpdateActivity">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZportalUpdateActivity"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ZbrcrmNotesUpdT">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZbrcrmNotesUpdT"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="tns:ZportalUpdateActivityResponse">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZportalUpdateActivityResponse"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ZttMessages">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZttMessages"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ZbrcrmNotesUpdS">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZbrcrmNotesUpdS"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ZbrcrmLinesUpdS">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZbrcrmLinesUpdS"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ZtsMessages">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZtsMessages"/>
+                
+        </bindings>
+            
+        <bindings if-exists="true" scd="~tns:ZbrcrmLinesUpdT">
+                  
+            <class ref="br.com.x10d.pacotegerado.ZbrcrmLinesUpdT"/>
+                
+        </bindings>
+          
+    </bindings>
+    
+</bindings>
